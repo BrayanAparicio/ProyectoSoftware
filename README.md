@@ -38,11 +38,17 @@ node app.js
 ```
 El servidor se ejecutará en http://localhost:3000. Puedes abrir un navegador y dirigirte a esa dirección para acceder a la aplicación.
 
+
+
 ## Rutas Principales
 /registro: Página para registrar un nuevo usuario.
+
 /login: Página de inicio de sesión.
+
 /: Página principal que muestra los vehículos en parqueadero.
+
 /admin: Panel de administración para gestionar vehículos y reservas.
+
 /reservar: Página para realizar una nueva reserva.
 
 El usuario de tipo administrador solo podra ser registrado por el programador,
