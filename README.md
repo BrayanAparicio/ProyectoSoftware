@@ -38,19 +38,6 @@ node app.js
 ```
 El servidor se ejecutará en http://localhost:3000. Puedes abrir un navegador y dirigirte a esa dirección para acceder a la aplicación.
 
-## Estructura del Proyecto
-La estructura del proyecto es la siguiente:
-
-parqueadero/
-│
-├── app.js              # Archivo principal de la aplicación
-├── database.js         # Configuración de la base de datos
-├── public/             # Archivos estáticos (CSS, imágenes, etc.)
-│   └── styles.css      # Estilos CSS de la aplicación
-├── views/              # Plantillas EJS para las vistas
-├── package.json        # Archivo de configuración de npm
-└── ...
-
 ## Rutas Principales
 /registro: Página para registrar un nuevo usuario.
 /login: Página de inicio de sesión.
